@@ -1,0 +1,481 @@
+{
+  "-2147483638": { "resource_id": "-2147483645", "name": "Bear Creek" },
+  "-2147483433": { "resource_id": "-2147483545", "name": "Rathtrevor Beach" },
+  "-2147483435": { "resource_id": "-2147483545", "name": "Rathtrevor Beach" },
+  "-2147483604": { "resource_id": "-2147483623", "name": "Cultus Lake" },
+  "-2147483613": { "resource_id": "-2147483626", "name": "Conkle Lake" },
+  "-2147483599": { "resource_id": "-2147483618", "name": "E. C. Manning" },
+  "-2147483598": { "resource_id": "-2147483618", "name": "E. C. Manning" },
+  "-2147483643": { "resource_id": "-2147483646", "name": "Bamberton" },
+  "-2147483622": { "resource_id": "-2147483629", "name": "Champion Lakes" },
+  "-2147483603": { "resource_id": "-2147483619", "name": "Dry Gulch" },
+  "-2147483591": { "resource_id": "-2147483615", "name": "Ellison" },
+  "-2147483580": { "resource_id": "-2147483610", "name": "French Beach" },
+  "-2147483567": { "resource_id": "-2147483605", "name": "Goldstream" },
+  "-2147483568": { "resource_id": "-2147483605", "name": "Goldstream" },
+  "-2147483564": { "resource_id": "-2147483604", "name": "Gordon Bay" },
+  "-2147483563": { "resource_id": "-2147483604", "name": "Gordon Bay" },
+  "-2147483562": { "resource_id": "-2147483603", "name": "Green Lake" },
+  "-2147483561": { "resource_id": "-2147483603", "name": "Green Lake" },
+  "-2147483530": { "resource_id": "-2147483591", "name": "Kikomun Creek" },
+  "-2147483519": { "resource_id": "-2147483587", "name": "Kootenay Lake" },
+  "-2147483473": { "resource_id": "-2147483565", "name": "Moyie Lake" },
+  "-2147483333": {
+    "resource_id": "-2147483561",
+    "name": "Okanagan Lake North"
+  },
+  "-2147483332": { "resource_id": "-2147483541", "name": "Ruckle" },
+  "-2147483330": { "resource_id": "-2147483551", "name": "Porpoise Bay" },
+  "-2147483505": { "resource_id": "-2147483580", "name": "Mabel Lake" },
+  "-2147483504": { "resource_id": "-2147483580", "name": "Mabel Lake" },
+  "-2147483503": { "resource_id": "-2147483580", "name": "Mabel Lake" },
+  "-2147483378": { "resource_id": "-2147483515", "name": "Tyhee Lake" },
+  "-2147483460": {
+    "resource_id": "-2147483560",
+    "name": "Okanagan Lake South"
+  },
+  "-2147483585": { "resource_id": "-2147483612", "name": "Fintry" },
+  "-2147483582": { "resource_id": "-2147483612", "name": "Fintry" },
+  "-2147483586": { "resource_id": "-2147483612", "name": "Fintry" },
+  "-2147483483": { "resource_id": "-2147483572", "name": "Monck" },
+  "-2147483457": { "resource_id": "-2147483557", "name": "Paul Lake" },
+  "-2147483455": { "resource_id": "-2147483557", "name": "Paul Lake" },
+  "-2147483454": { "resource_id": "-2147483556", "name": "Peace Arch" },
+  "-2147483453": {
+    "resource_id": "-2147483552",
+    "name": "Plumper Cove Marine"
+  },
+  "-2147483450": { "resource_id": "-2147483551", "name": "Porpoise Bay" },
+  "-2147483447": { "resource_id": "-2147483550", "name": "Porteau Cove" },
+  "-2147483445": { "resource_id": "-2147483550", "name": "Porteau Cove" },
+  "-2147483444": { "resource_id": "-2147483549", "name": "Premier Lake" },
+  "-2147483439": { "resource_id": "-2147483547", "name": "Purden Lake" },
+  "-2147483430": { "resource_id": "-2147483543", "name": "Rolley Lake" },
+  "-2147483422": { "resource_id": "-2147483540", "name": "Saltery Bay" },
+  "-2147483417": { "resource_id": "-2147483539", "name": "Sasquatch" },
+  "-2147483416": { "resource_id": "-2147483539", "name": "Sasquatch" },
+  "-2147483420": { "resource_id": "-2147483539", "name": "Sasquatch" },
+  "-2147483411": { "resource_id": "-2147483536", "name": "Shuswap Lake" },
+  "-2147483368": { "resource_id": "-2147483534", "name": "Skagit Valley" },
+  "-2147483401": { "resource_id": "-2147483530", "name": "Stamp River" },
+  "-2147483396": { "resource_id": "-2147483527", "name": "Strathcona" },
+  "-2147483395": { "resource_id": "-2147483525", "name": "Summit Lake" },
+  "-2147483393": { "resource_id": "-2147483524", "name": "Swan Lake" },
+  "-2147483390": { "resource_id": "-2147483521", "name": "Syringa" },
+  "-2147483387": { "resource_id": "-2147483521", "name": "Syringa" },
+  "-2147483388": { "resource_id": "-2147483521", "name": "Syringa" },
+  "-2147483385": { "resource_id": "-2147483519", "name": "Ten Mile Lake" },
+  "-2147483382": { "resource_id": "-2147483519", "name": "Ten Mile Lake" },
+  "-2147483371": { "resource_id": "-2147483510", "name": "West Lake" },
+  "-2147483370": { "resource_id": "-2147483509", "name": "Whiskers Point" },
+  "-2147483526": { "resource_id": "-2147483589", "name": "Kokanee Creek" },
+  "-2147483556": { "resource_id": "-2147483601", "name": "Herald" },
+  "-2147483449": { "resource_id": "-2147483550", "name": "Porteau Cove" },
+  "-2147483448": { "resource_id": "-2147483550", "name": "Porteau Cove" },
+  "-2147483446": { "resource_id": "-2147483550", "name": "Porteau Cove" },
+  "-2147483400": { "resource_id": "-2147483528", "name": "Stemwinder" },
+  "-2147483624": { "resource_id": "-2147483636", "name": "Bromley Rock" },
+  "-2147483461": {
+    "resource_id": "-2147483560",
+    "name": "Okanagan Lake South"
+  },
+  "-2147483646": { "resource_id": "-2147483647", "name": "Alice Lake" },
+  "-2147483645": { "resource_id": "-2147483647", "name": "Alice Lake" },
+  "-2147483644": { "resource_id": "-2147483647", "name": "Alice Lake" },
+  "-2147483523": { "resource_id": "-2147483589", "name": "Kokanee Creek" },
+  "-2147483506": { "resource_id": "-2147483580", "name": "Mabel Lake" },
+  "-2147483587": { "resource_id": "-2147483613", "name": "Fillongley" },
+  "-2147483648": { "resource_id": "-2147483647", "name": "Alice Lake" },
+  "-2147483634": { "resource_id": "-2147483641", "name": "Big Bar Lake" },
+  "-2147483630": { "resource_id": "-2147483639", "name": "Blanket Creek" },
+  "-2147483610": { "resource_id": "-2147483623", "name": "Cultus Lake" },
+  "-2147483588": { "resource_id": "-2147483613", "name": "Fillongley" },
+  "-2147483570": { "resource_id": "-2147483605", "name": "Goldstream" },
+  "-2147483554": { "resource_id": "-2147483599", "name": "Inland Lake" },
+  "-2147483548": { "resource_id": "-2147483597", "name": "Joffre Lakes" },
+  "-2147483534": { "resource_id": "-2147483591", "name": "Kikomun Creek" },
+  "-2147483329": { "resource_id": "-2147483580", "name": "Mabel Lake" },
+  "-2147483495": { "resource_id": "-2147483576", "name": "Meziadin Lake" },
+  "-2147483490": { "resource_id": "-2147483575", "name": "Miracle Beach" },
+  "-2147483488": { "resource_id": "-2147483575", "name": "Miracle Beach" },
+  "-2147483478": { "resource_id": "-2147483567", "name": "Mount Robson" },
+  "-2147483489": { "resource_id": "-2147483575", "name": "Miracle Beach" },
+  "-2147483441": { "resource_id": "-2147483548", "name": "Prudhomme Lake" },
+  "-2147483434": { "resource_id": "-2147483545", "name": "Rathtrevor Beach" },
+  "-2147483426": { "resource_id": "-2147483541", "name": "Ruckle" },
+  "-2147483466": {
+    "resource_id": "-2147483522",
+    "name": "sx\u030c\u02b7\u0259x\u030c\u02b7nitk\u02b7 (Okanagan Falls)"
+  },
+  "-2147483465": {
+    "resource_id": "-2147483522",
+    "name": "sx\u030c\u02b7\u0259x\u030c\u02b7nitk\u02b7 (Okanagan Falls)"
+  },
+  "-2147483391": { "resource_id": "-2147483521", "name": "Syringa" },
+  "-2147483386": { "resource_id": "-2147483520", "name": "Taylor Arm" },
+  "-2147483605": { "resource_id": "-2147483623", "name": "Cultus Lake" },
+  "-2147483538": { "resource_id": "-2147483592", "name": "Kettle River" },
+  "-2147483593": { "resource_id": "-2147483617", "name": "Elk Falls" },
+  "-2147483535": { "resource_id": "-2147483592", "name": "Kettle River" },
+  "-2147483492": { "resource_id": "-2147483575", "name": "Miracle Beach" },
+  "-2147483566": { "resource_id": "-2147483604", "name": "Gordon Bay" },
+  "-2147483323": {
+    "resource_id": "-2147483571",
+    "name": "Montague Harbour Marine"
+  },
+  "-2147483322": { "resource_id": "-2147483572", "name": "Monck" },
+  "-2147483399": { "resource_id": "-2147483527", "name": "Strathcona" },
+  "-2147483324": {
+    "resource_id": "-2147483583",
+    "name": "Liard River Hot Springs"
+  },
+  "-2147483471": { "resource_id": "-2147483564", "name": "Nairn Falls" },
+  "-2147483318": { "resource_id": "-2147483618", "name": "E. C. Manning" },
+  "-2147483594": { "resource_id": "-2147483618", "name": "E. C. Manning" },
+  "-2147483600": { "resource_id": "-2147483618", "name": "E. C. Manning" },
+  "-2147483574": { "resource_id": "-2147483606", "name": "Golden Ears" },
+  "-2147483541": { "resource_id": "-2147483593", "name": "Kentucky Alleyne" },
+  "-2147483540": { "resource_id": "-2147483593", "name": "Kentucky Alleyne" },
+  "-2147483539": { "resource_id": "-2147483593", "name": "Kentucky Alleyne" },
+  "-2147483316": { "resource_id": "-2147483593", "name": "Kentucky Alleyne" },
+  "-2147483317": { "resource_id": "-2147483618", "name": "E. C. Manning" },
+  "-2147483499": { "resource_id": "-2147483577", "name": "McDonald Creek" },
+  "-2147483596": { "resource_id": "-2147483618", "name": "E. C. Manning" },
+  "-2147483502": { "resource_id": "-2147483578", "name": "Martha Creek" },
+  "-2147483637": { "resource_id": "-2147483644", "name": "Beatton" },
+  "-2147483632": { "resource_id": "-2147483641", "name": "Big Bar Lake" },
+  "-2147483631": { "resource_id": "-2147483640", "name": "Birkenhead Lake" },
+  "-2147483627": { "resource_id": "-2147483638", "name": "Bowron Lake" },
+  "-2147483620": { "resource_id": "-2147483628", "name": "Charlie Lake" },
+  "-2147483612": { "resource_id": "-2147483625", "name": "Cowichan River" },
+  "-2147483608": { "resource_id": "-2147483623", "name": "Cultus Lake" },
+  "-2147483607": { "resource_id": "-2147483623", "name": "Cultus Lake" },
+  "-2147483609": { "resource_id": "-2147483623", "name": "Cultus Lake" },
+  "-2147483606": { "resource_id": "-2147483623", "name": "Cultus Lake" },
+  "-2147483597": { "resource_id": "-2147483618", "name": "E. C. Manning" },
+  "-2147483592": { "resource_id": "-2147483617", "name": "Elk Falls" },
+  "-2147483590": { "resource_id": "-2147483615", "name": "Ellison" },
+  "-2147483575": { "resource_id": "-2147483606", "name": "Golden Ears" },
+  "-2147483573": { "resource_id": "-2147483606", "name": "Golden Ears" },
+  "-2147483565": { "resource_id": "-2147483604", "name": "Gordon Bay" },
+  "-2147483553": { "resource_id": "-2147483599", "name": "Inland Lake" },
+  "-2147483543": { "resource_id": "-2147483595", "name": "Juniper Beach" },
+  "-2147483537": { "resource_id": "-2147483592", "name": "Kettle River" },
+  "-2147483536": { "resource_id": "-2147483592", "name": "Kettle River" },
+  "-2147483529": { "resource_id": "-2147483590", "name": "Kleanza Creek" },
+  "-2147483527": { "resource_id": "-2147483589", "name": "Kokanee Creek" },
+  "-2147483525": { "resource_id": "-2147483589", "name": "Kokanee Creek" },
+  "-2147483511": {
+    "resource_id": "-2147483583",
+    "name": "Liard River Hot Springs"
+  },
+  "-2147483509": {
+    "resource_id": "-2147483582",
+    "name": "Little Qualicum Falls"
+  },
+  "-2147483507": { "resource_id": "-2147483581", "name": "Loveland Bay" },
+  "-2147483494": { "resource_id": "-2147483576", "name": "Meziadin Lake" },
+  "-2147483493": { "resource_id": "-2147483576", "name": "Meziadin Lake" },
+  "-2147483491": { "resource_id": "-2147483575", "name": "Miracle Beach" },
+  "-2147483487": { "resource_id": "-2147483574", "name": "Moberly Lake" },
+  "-2147483485": { "resource_id": "-2147483572", "name": "Monck" },
+  "-2147483482": {
+    "resource_id": "-2147483571",
+    "name": "Montague Harbour Marine"
+  },
+  "-2147483481": { "resource_id": "-2147483570", "name": "Morton Lake" },
+  "-2147483479": { "resource_id": "-2147483568", "name": "Mount Fernie" },
+  "-2147483468": {
+    "resource_id": "-2147483562",
+    "name": "North Thompson River"
+  },
+  "-2147483458": { "resource_id": "-2147483558", "name": "Paarens Beach" },
+  "-2147483451": { "resource_id": "-2147483551", "name": "Porpoise Bay" },
+  "-2147483443": { "resource_id": "-2147483549", "name": "Premier Lake" },
+  "-2147483440": { "resource_id": "-2147483548", "name": "Prudhomme Lake" },
+  "-2147483438": { "resource_id": "-2147483547", "name": "Purden Lake" },
+  "-2147483431": { "resource_id": "-2147483544", "name": "Red Bluff" },
+  "-2147483424": { "resource_id": "-2147483541", "name": "Ruckle" },
+  "-2147483423": { "resource_id": "-2147483541", "name": "Ruckle" },
+  "-2147483331": { "resource_id": "-2147483541", "name": "Ruckle" },
+  "-2147483425": { "resource_id": "-2147483541", "name": "Ruckle" },
+  "-2147483421": { "resource_id": "-2147483540", "name": "Saltery Bay" },
+  "-2147483418": { "resource_id": "-2147483539", "name": "Sasquatch" },
+  "-2147483419": { "resource_id": "-2147483539", "name": "Sasquatch" },
+  "-2147483410": { "resource_id": "-2147483535", "name": "Silver Lake" },
+  "-2147483403": { "resource_id": "-2147483532", "name": "Sowchea Bay" },
+  "-2147483398": { "resource_id": "-2147483527", "name": "Strathcona" },
+  "-2147483397": { "resource_id": "-2147483527", "name": "Strathcona" },
+  "-2147483394": { "resource_id": "-2147483525", "name": "Summit Lake" },
+  "-2147483392": { "resource_id": "-2147483524", "name": "Swan Lake" },
+  "-2147483377": { "resource_id": "-2147483515", "name": "Tyhee Lake" },
+  "-2147483369": { "resource_id": "-2147483509", "name": "Whiskers Point" },
+  "-2147483584": { "resource_id": "-2147483612", "name": "Fintry" },
+  "-2147483442": { "resource_id": "-2147483549", "name": "Premier Lake" },
+  "-2147483429": { "resource_id": "-2147483543", "name": "Rolley Lake" },
+  "-2147483313": { "resource_id": "-2147483504", "name": "Norbury Lake" },
+  "-2147483312": { "resource_id": "-2147483504", "name": "Norbury Lake" },
+  "-2147483497": { "resource_id": "-2147483577", "name": "McDonald Creek" },
+  "-2147483498": { "resource_id": "-2147483577", "name": "McDonald Creek" },
+  "-2147483583": { "resource_id": "-2147483612", "name": "Fintry" },
+  "-2147483560": { "resource_id": "-2147483603", "name": "Green Lake" },
+  "-2147483484": { "resource_id": "-2147483572", "name": "Monck" },
+  "-2147483647": { "resource_id": "-2147483647", "name": "Alice Lake" },
+  "-2147483305": { "resource_id": "-2147483499", "name": "Muncho Lake" },
+  "-2147483304": { "resource_id": "-2147483499", "name": "Muncho Lake" },
+  "-2147483303": { "resource_id": "-2147483499", "name": "Muncho Lake" },
+  "-2147483309": { "resource_id": "-2147483502", "name": "Lockhart Beach" },
+  "-2147483311": { "resource_id": "-2147483503", "name": "Jimsmith Lake" },
+  "-2147483310": { "resource_id": "-2147483500", "name": "Yahk" },
+  "-2147483500": { "resource_id": "-2147483578", "name": "Martha Creek" },
+  "-2147483577": { "resource_id": "-2147483607", "name": "Gladstone" },
+  "-2147483496": { "resource_id": "-2147483577", "name": "McDonald Creek" },
+  "-2147483542": { "resource_id": "-2147483594", "name": "Kekuli Bay" },
+  "-2147483380": { "resource_id": "-2147483516", "name": "Tweedsmuir South" },
+  "-2147483379": { "resource_id": "-2147483516", "name": "Tweedsmuir South" },
+  "-2147483572": { "resource_id": "-2147483606", "name": "Golden Ears" },
+  "-2147483328": { "resource_id": "-2147483612", "name": "Fintry" },
+  "-2147483581": { "resource_id": "-2147483610", "name": "French Beach" },
+  "-2147483579": { "resource_id": "-2147483610", "name": "French Beach" },
+  "-2147483464": {
+    "resource_id": "-2147483561",
+    "name": "Okanagan Lake North"
+  },
+  "-2147483414": { "resource_id": "-2147483536", "name": "Shuswap Lake" },
+  "-2147483412": { "resource_id": "-2147483536", "name": "Shuswap Lake" },
+  "-2147483402": { "resource_id": "-2147483531", "name": "Sproat Lake" },
+  "-2147483459": { "resource_id": "-2147483559", "name": "Otter Lake" },
+  "-2147483557": { "resource_id": "-2147483601", "name": "Herald" },
+  "-2147483641": { "resource_id": "-2147483645", "name": "Bear Creek" },
+  "-2147483640": { "resource_id": "-2147483645", "name": "Bear Creek" },
+  "-2147483639": { "resource_id": "-2147483645", "name": "Bear Creek" },
+  "-2147483569": { "resource_id": "-2147483605", "name": "Goldstream" },
+  "-2147483518": { "resource_id": "-2147483586", "name": "Lac La Hache" },
+  "-2147483477": { "resource_id": "-2147483567", "name": "Mount Robson" },
+  "-2147483475": { "resource_id": "-2147483567", "name": "Mount Robson" },
+  "-2147483469": {
+    "resource_id": "-2147483563",
+    "name": "Saysutshun (Newcastle Island Marine)"
+  },
+  "-2147483463": {
+    "resource_id": "-2147483560",
+    "name": "Okanagan Lake South"
+  },
+  "-2147483462": {
+    "resource_id": "-2147483560",
+    "name": "Okanagan Lake South"
+  },
+  "-2147483516": { "resource_id": "-2147483585", "name": "Lac Le Jeune" },
+  "-2147483555": { "resource_id": "-2147483600", "name": "Horsefly Lake" },
+  "-2147483611": { "resource_id": "-2147483624", "name": "Crooked River" },
+  "-2147483636": { "resource_id": "-2147483643", "name": "Beaumont" },
+  "-2147483486": { "resource_id": "-2147483572", "name": "Monck" },
+  "-2147483452": { "resource_id": "-2147483551", "name": "Porpoise Bay" },
+  "-2147483389": { "resource_id": "-2147483521", "name": "Syringa" },
+  "-2147483404": { "resource_id": "-2147483533", "name": "Smelt Bay" },
+  "-2147483476": { "resource_id": "-2147483567", "name": "Mount Robson" },
+  "-2147483508": {
+    "resource_id": "-2147483582",
+    "name": "Little Qualicum Falls"
+  },
+  "-2147483520": { "resource_id": "-2147483587", "name": "Kootenay Lake" },
+  "-2147483521": { "resource_id": "-2147483587", "name": "Kootenay Lake" },
+  "-2147483533": { "resource_id": "-2147483591", "name": "Kikomun Creek" },
+  "-2147483532": { "resource_id": "-2147483591", "name": "Kikomun Creek" },
+  "-2147483629": { "resource_id": "-2147483639", "name": "Blanket Creek" },
+  "-2147483628": { "resource_id": "-2147483639", "name": "Blanket Creek" },
+  "-2147483633": { "resource_id": "-2147483641", "name": "Big Bar Lake" },
+  "-2147483384": { "resource_id": "-2147483519", "name": "Ten Mile Lake" },
+  "-2147483413": { "resource_id": "-2147483536", "name": "Shuswap Lake" },
+  "-2147483456": { "resource_id": "-2147483557", "name": "Paul Lake" },
+  "-2147483621": { "resource_id": "-2147483629", "name": "Champion Lakes" },
+  "-2147483427": { "resource_id": "-2147483542", "name": "Rosebery" },
+  "-2147483428": { "resource_id": "-2147483542", "name": "Rosebery" },
+  "-2147483571": { "resource_id": "-2147483606", "name": "Golden Ears" },
+  "-2147483302": { "resource_id": "-2147483498", "name": "Gwillim Lake" },
+  "-2147483602": { "resource_id": "-2147483619", "name": "Dry Gulch" },
+  "-2147483528": { "resource_id": "-2147483589", "name": "Kokanee Creek" },
+  "-2147483277": { "resource_id": "-2147483630", "name": "Cathedral" },
+  "-2147483349": { "resource_id": "-2147483599", "name": "Inland Lake" },
+  "-2147483347": { "resource_id": "-2147483596", "name": "Juan de Fuca" },
+  "-2147483338": { "resource_id": "-2147483516", "name": "Tweedsmuir South" },
+  "-2147483360": { "resource_id": "-2147483635", "name": "Bugaboo" },
+  "-2147483367": { "resource_id": "-2147483634", "name": "Cape Scott" },
+  "-2147483359": { "resource_id": "-2147483633", "name": "Carmanah Walbran" },
+  "-2147483352": { "resource_id": "-2147483616", "name": "Elk Lakes" },
+  "-2147483326": {
+    "resource_id": "-2147483506",
+    "name": "Golden Ears Backcountry"
+  },
+  "-2147483348": {
+    "resource_id": "-2147483598",
+    "name": "Jedediah Island Marine"
+  },
+  "-2147483345": { "resource_id": "-2147483579", "name": "Main Lake" },
+  "-2147483344": { "resource_id": "-2147483573", "name": "Monashee" },
+  "-2147483343": { "resource_id": "-2147483555", "name": "Pilot Bay" },
+  "-2147483342": {
+    "resource_id": "-2147483553",
+    "name": "Pirates Cove Marine"
+  },
+  "-2147483341": { "resource_id": "-2147483546", "name": "Raft Cove" },
+  "-2147483337": {
+    "resource_id": "-2147483514",
+    "name": "Wallace Island Marine"
+  },
+  "-2147483335": {
+    "resource_id": "-2147483511",
+    "name": "Wells Gray - Murtle Lake"
+  },
+  "-2147483334": { "resource_id": "-2147483508", "name": "Whiteswan Lake" },
+  "-2147483279": { "resource_id": "-2147483587", "name": "Kootenay Lake" },
+  "-2147483282": { "resource_id": "-2147483587", "name": "Kootenay Lake" },
+  "-2147483280": { "resource_id": "-2147483587", "name": "Kootenay Lake" },
+  "-2147483524": { "resource_id": "-2147483589", "name": "Kokanee Creek" },
+  "-2147483271": { "resource_id": "-2147483493", "name": "Beaver Creek" },
+  "-2147483270": { "resource_id": "-2147483493", "name": "Beaver Creek" },
+  "-2147483269": { "resource_id": "-2147483632", "name": "Carp Lake " },
+  "-2147483268": { "resource_id": "-2147483632", "name": "Carp Lake " },
+  "-2147483267": { "resource_id": "-2147483632", "name": "Carp Lake " },
+  "-2147483623": { "resource_id": "-2147483632", "name": "Carp Lake " },
+  "-2147483353": { "resource_id": "-2147483618", "name": "E. C. Manning" },
+  "-2147483589": {
+    "resource_id": "-2147483614",
+    "name": "Englishman River Falls"
+  },
+  "-2147483559": { "resource_id": "-2147483603", "name": "Green Lake" },
+  "-2147483517": { "resource_id": "-2147483586", "name": "Lac La Hache" },
+  "-2147483383": { "resource_id": "-2147483519", "name": "Ten Mile Lake" },
+  "-2147483436": { "resource_id": "-2147483545", "name": "Rathtrevor Beach" },
+  "-2147483437": { "resource_id": "-2147483545", "name": "Rathtrevor Beach" },
+  "-2147483470": {
+    "resource_id": "-2147483563",
+    "name": "Saysutshun (Newcastle Island Marine)"
+  },
+  "-2147483346": { "resource_id": "-2147483588", "name": "Kokanee Glacier" },
+  "-2147483366": { "resource_id": "-2147483638", "name": "Bowron Lake" },
+  "-2147483362": { "resource_id": "-2147483638", "name": "Bowron Lake" },
+  "-2147483501": { "resource_id": "-2147483578", "name": "Martha Creek" },
+  "-2147483381": { "resource_id": "-2147483516", "name": "Tweedsmuir South" },
+  "-2147483595": { "resource_id": "-2147483618", "name": "E. C. Manning" },
+  "-2147483642": { "resource_id": "-2147483646", "name": "Bamberton" },
+  "-2147483373": {
+    "resource_id": "-2147483492",
+    "name": "Wells Gray - Clearwater Lake & Falls Creek"
+  },
+  "-2147483372": {
+    "resource_id": "-2147483492",
+    "name": "Wells Gray - Clearwater Lake & Falls Creek"
+  },
+  "-2147483336": {
+    "resource_id": "-2147483492",
+    "name": "Wells Gray - Clearwater Lake & Falls Creek"
+  },
+  "-2147483265": {
+    "resource_id": "-2147483492",
+    "name": "Wells Gray - Clearwater Lake & Falls Creek"
+  },
+  "-2147483374": {
+    "resource_id": "-2147483512",
+    "name": "Wells Gray - Mahood Lake"
+  },
+  "-2147483513": { "resource_id": "-2147483584", "name": "Lakelse Lake" },
+  "-2147483264": { "resource_id": "-2147483584", "name": "Lakelse Lake" },
+  "-2147483578": { "resource_id": "-2147483609", "name": "Garibaldi" },
+  "-2147483407": { "resource_id": "-2147483534", "name": "Skagit Valley" },
+  "-2147483408": { "resource_id": "-2147483534", "name": "Skagit Valley" },
+  "-2147483615": {
+    "resource_id": "-2147483627",
+    "name": "Sx\u0331\u00f3tsaqel / Chilliwack Lake"
+  },
+  "-2147483480": { "resource_id": "-2147483569", "name": "Mount Assiniboine" },
+  "-2147483272": { "resource_id": "-2147483618", "name": "E. C. Manning" },
+  "-2147483617": {
+    "resource_id": "-2147483627",
+    "name": "Sx\u0331\u00f3tsaqel / Chilliwack Lake"
+  },
+  "-2147483614": {
+    "resource_id": "-2147483627",
+    "name": "Sx\u0331\u00f3tsaqel / Chilliwack Lake"
+  },
+  "-2147483616": {
+    "resource_id": "-2147483627",
+    "name": "Sx\u0331\u00f3tsaqel / Chilliwack Lake"
+  },
+  "-2147483618": {
+    "resource_id": "-2147483627",
+    "name": "Sx\u0331\u00f3tsaqel / Chilliwack Lake"
+  },
+  "-2147483306": { "resource_id": "-2147483497", "name": "Allison Lake" },
+  "-2147483619": {
+    "resource_id": "-2147483627",
+    "name": "Sx\u0331\u00f3tsaqel / Chilliwack Lake"
+  },
+  "-2147483357": {
+    "resource_id": "-2147483627",
+    "name": "Sx\u0331\u00f3tsaqel / Chilliwack Lake"
+  },
+  "-2147483263": {
+    "resource_id": "-2147483627",
+    "name": "Sx\u0331\u00f3tsaqel / Chilliwack Lake"
+  },
+  "-2147483547": { "resource_id": "-2147483596", "name": "Juan de Fuca" },
+  "-2147483376": { "resource_id": "-2147483513", "name": "Wasa Lake" },
+  "-2147483259": { "resource_id": "-2147483606", "name": "Golden Ears" },
+  "-2147483576": { "resource_id": "-2147483606", "name": "Golden Ears" },
+  "-2147483472": { "resource_id": "-2147483565", "name": "Moyie Lake" },
+  "-2147483514": { "resource_id": "-2147483584", "name": "Lakelse Lake" },
+  "-2147483515": { "resource_id": "-2147483584", "name": "Lakelse Lake" },
+  "-2147483512": { "resource_id": "-2147483584", "name": "Lakelse Lake" },
+  "-2147483474": { "resource_id": "-2147483566", "name": "Mount Seymour" },
+  "-2147483406": { "resource_id": "-2147483534", "name": "Skagit Valley" },
+  "-2147483405": { "resource_id": "-2147483534", "name": "Skagit Valley" },
+  "-2147483256": {
+    "resource_id": "-2147483582",
+    "name": "Little Qualicum Falls"
+  },
+  "-2147483558": {
+    "resource_id": "-2147483523",
+    "name": "s\u1e81i\u1e81s (Haynes Point)"
+  },
+  "-2147483361": { "resource_id": "-2147483648", "name": "Akamina-Kishinena" },
+  "-2147483356": {
+    "resource_id": "-2147483622",
+    "name": "Desolation Sound Marine"
+  },
+  "-2147483355": { "resource_id": "-2147483621", "name": "Dionisio Point" },
+  "-2147483354": {
+    "resource_id": "-2147483620",
+    "name": "Discovery Island Marine"
+  },
+  "-2147483350": { "resource_id": "-2147483602", "name": "Halkett Bay Marine" },
+  "-2147483339": { "resource_id": "-2147483518", "name": "Top of the World" },
+  "-2147483545": { "resource_id": "-2147483595", "name": "Juniper Beach" },
+  "-2147483544": { "resource_id": "-2147483595", "name": "Juniper Beach" },
+  "-2147483546": { "resource_id": "-2147483596", "name": "Juan de Fuca" },
+  "-2147483510": {
+    "resource_id": "-2147483582",
+    "name": "Little Qualicum Falls"
+  },
+  "-2147483601": { "resource_id": "-2147483618", "name": "E. C. Manning" },
+  "-2147483276": { "resource_id": "-2147483630", "name": "Cathedral" },
+  "-2147483255": {
+    "resource_id": "-2147483526",
+    "name": "Strathcona Backcountry"
+  },
+  "-2147483261": {
+    "resource_id": "-2147483526",
+    "name": "Strathcona Backcountry"
+  },
+  "-2147483635": { "resource_id": "-2147483642", "name": "Berg Lake Trail" },
+  "-2147483626": {
+    "resource_id": "-2147483637",
+    "name": "T\u0101 Ch'il\u0101"
+  },
+  "-2147483625": {
+    "resource_id": "-2147483637",
+    "name": "T\u0101 Ch'il\u0101"
+  },
+  "-2147483531": { "resource_id": "-2147483591", "name": "Kikomun Creek" },
+  "-2147483375": { "resource_id": "", "name": "Wells Gray" }
+}
